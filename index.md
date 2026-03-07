@@ -7,4 +7,8 @@ image: null
 author: Abdulkadir
 show_tile: false
 ---
-Graduated 2024.
+<!-- you can [get the PDF](/assets/tarama.pdf) directly. --> 
+
+
+
+

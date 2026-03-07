@@ -2,7 +2,7 @@
 title: CV
 subtitle: Computer Engineering
 email: tenoclockdev@gmail.com
-description: A website for resume <br /> CV .
+description: A website for resume <br /> CV  .
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/softwaregame
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: https://plus.google.com/u/0/+
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/
+  Twitter: https://twitter.com/
   Facebook:
   Slack:
 
@@ -36,7 +36,7 @@ markdown: kramdown
 
 sass:
   style: compressed
-
+keep_files: [blog]
 exclude:
 - "*.gemspec"
 - LICENSE.md
