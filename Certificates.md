@@ -9,7 +9,7 @@ nav-menu: true
 
 <h3>Introduction to AI</h3>
 <a class="image">
-			<img src="{% link assets/images/btkSertifika.png %}" alt="" data-position="center" />
+			<img src="{% link assets/images/btkSertifika.jpg %}" alt="" data-position="center" />
 		</a>
 <h3>English</h3>
 <br>
