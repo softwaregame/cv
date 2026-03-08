@@ -2,7 +2,7 @@
 layout: generic
 title: Projects
 description: Various projects im worked on
-image: assets/images/pic04.jpg
+image: assets/images/pic04.png
 nav-menu: true
 ---
 

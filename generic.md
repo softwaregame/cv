@@ -2,7 +2,7 @@
 layout: generic
 title: Generic Info
 description: Generic Information about me
-image: assets/images/pic07.jpg
+image: assets/images/pic07.png
 nav-menu: true
 ---
 
