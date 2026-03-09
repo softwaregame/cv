@@ -1,5 +1,5 @@
 ---
-layout: generic
+layout: page
 title: Projects
 description: Various projects im worked on
 image: assets/images/pic04.png
@@ -47,10 +47,6 @@ nav-menu: true
 </div>
 
 <!--
-
-
-
-
 Roboboy
 Dungeon escape
 dinojump

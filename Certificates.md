@@ -1,12 +1,11 @@
 ---
-layout: generic
+layout: page
 title: Certificates
 description: Certificates and Success
 image: assets/images/pic09.jpg
 nav-menu: true
 ---
-
-
+<div>
 <h3>Introduction to AI</h3>
 <a class="image">
 			<img src="assets/images/btkSertifika.jpg" alt="" data-position="center" />
@@ -16,4 +15,4 @@ nav-menu: true
 <ul class="actions">
 			<li><a href="Projects.html" class="button next">Projects</a></li>
 		</ul>
-
+</div>
