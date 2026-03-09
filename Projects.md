@@ -108,7 +108,7 @@ tower defence project
 		</p>
 	</div>
 	<a class="image">
-			<img src="{% link assets/images/allGames.jpg %}" alt="" data-position="center" />
+			<img src="assets/images/allGames.jpg" alt="" data-position="center" />
 		</a>
 </div>
 <div>
