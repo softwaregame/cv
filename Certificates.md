@@ -2,7 +2,7 @@
 layout: generic
 title: Certificates
 description: Certificates and Success
-image: assets/images/pic07.jpg
+image: assets/images/pic09.jpg
 nav-menu: true
 ---
 

@@ -17,6 +17,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Internship at ID3</h2>
 		</header>
+		<div>
+		<img src="{% link assets/images/id3logo1.jpg %}" alt="" data-position="center center" /><img src="{% link assets/images/turkish-airlinesSmall.jpg %}" alt="" data-position="25% 25%" />
+		</div>
 		<p>
 		I have been at Internship a firm which works remotely. This was a great experience because i was working for Turkish Airlines and completed a code task involving complicated actions and various technologies. My brother helped me on this, we were working together. 
 		</p>
