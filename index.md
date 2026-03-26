@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Abdulkadir'
+landing-title: 'Welcome this cv site, my name is Abdulkadir'
 description: I'm a computer Engineer and this is my resume
 image: null
 author: Abdulkadir

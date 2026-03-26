@@ -11,8 +11,7 @@ nav-menu: true
 	<div class="inner">
 		 <p>I'm into games both playing and creating.
 		I'm participated several courses, joined seminars and read books about game making process. 
-		I joined a game jam and really enjoyed.
-		I dont smoke. 
+		I joined a game jam and really enjoyed. 
 		</p>
 	<!-- 	<a class="image">
 			<img src="{% link assets/images/pic07.jpg %}" alt="" data-position="center" />
@@ -23,6 +22,19 @@ nav-menu: true
 <!-- Section two -->
 <section id="two">
 	<div class="inner">
+		<header class="major">
+			<h2>Graduated 2024</h2>
+		</header>
+		<p>
+			Why am i graduated late ?
+		    I study extra year for university entry exam, studied english prep one year, freezed school one year, while changing school lost one year of classes for being under limits, failed some lessons
+		</p>
+		<header class="major">
+			<h2>Done military service</h2>
+		</header>
+		<p>
+		    Has done obligatory military service in Turkey.
+		</p>
 		<header class="major">
 			<h2>I like reading books</h2>
 		</header>
@@ -36,10 +48,10 @@ nav-menu: true
 		    I do care about doing regular exercises.
 		</p>
 		<header class="major">
-			<h2>Graduated 2024</h2>
+			<h2>I don't smoke</h2>
 		</header>
 		<p>
-		    I study extra year, freezed school one year, while changing school lost one year of classes for being under limits, failed some lessons
+		    I do care about my lungs.
 		</p>
 
 		

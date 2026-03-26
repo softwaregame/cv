@@ -12,11 +12,22 @@ nav-menu: true
 		<p>
 			Converting numbers from pdf files to excell sheets and sums
 		</p>
+		<h6>Techs used</h6>
+		<p>
+			Python, Excell, PDF libraries.
+		</p>
+		<p>
+		<a href="https://github.com/NecromancerSkeleton/PdfToExcell" class = "icon alt fa-{{ 'github' | downcase }}" target = _blank > github link</a>
+		</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>CaloriCalculator</h3>
 		<p>
 			Calculates calories for homemade meals
+		</p>
+		<h6>Techs used</h6>
+		<p>
+			Kotlin native.
 		</p>
 	</div>
 	<!-- Break -->
@@ -25,11 +36,19 @@ nav-menu: true
 		<p>
 			Compares prices from different sites and make shopping economic. 
 		</p>
+		<h6>Techs used</h6>
+		<p>
+			Selenium, Chrome, Java.
+		</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Ar project</h3>
 		<p>
 			Interaction project with speech using Turkish language.
+		</p>
+		<h6>Techs used</h6>
+		<p>
+			Vuforia, Unity.
 		</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
@@ -37,11 +56,19 @@ nav-menu: true
 		<p>
 		Info website about a shop.
 		</p>
+		<h6>Techs used</h6>
+		<p>
+			Html, Css.
+		</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>React project</h3>
 		<p>
 			Order and asign work to machines from mobile devices. Amazon sources used. 
+		</p>
+		<h6>Techs used</h6>
+		<p>
+			Amazon Elastic Beanstalk, Mysql, React Native.
 		</p>
 	</div>
 </div>
@@ -109,7 +136,10 @@ tower defence project
 </div>
 <div>
 <br>
-<ul class="actions">
+<h2 id="content">3D art</h2>
+	<p>i have created some 3d assets in blender</p>	
+		<ul class="actions">
+			<li><a href="https://softwaregame.github.io/artwork" class="button">Art Site</a></li>
 			<li><a href="careerAndInterests.html" class="button next">Career and Interests</a></li>
 		</ul>
 </div>

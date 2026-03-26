@@ -21,7 +21,11 @@ nav-menu: true
 		<img src="assets/images/id3logo1.jpg" alt="" data-position="center center" /><img src="assets/images/turkish-airlinesSmall.jpg" alt="" data-position="25% 25%" />
 		</div>
 		<p>
-		I have been at Internship a firm which works remotely. This was a great experience because i was working for Turkish Airlines and completed a code task involving complicated actions and various technologies. My brother helped me on this, we were working together. 
+		I have been at Internship a firm which works remotely. This was a great experience because i was working for Turkish Airlines and completed a code task involving complicated actions and various technologies.
+		</p>
+		<h6>Techs used</h6>
+		<p>
+			JAVA Spring, React Native, Python, PLSQL
 		</p>
 	</div>
 </section>

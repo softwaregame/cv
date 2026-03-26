@@ -2,8 +2,8 @@
 title: CV
 subtitle: Computer Engineering
 email: tenoclockdev@gmail.com
-description: A website for resume <br /> CV  .
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: A website for resume. Computer Engineer Graduated 2024. 
+baseurl: "/" # the subpath of your site, e.g. /blog000
 url: # the base hostname & protocol for your site
 author:
 street_address: ---- 
